@@ -8,7 +8,7 @@ Catalogue of source material for the Plum Village knowledge base: transcripts of
 
 | Item | Date | Kind | Source | Text in `life-itself/library` | Notes |
 |---|---|---|---|---|---|
-| The Horse is Technology (dharma talk) | 2013-11-10 | Machine transcript of the core talk (whisper.cpp, uncorrected) | [Official MP3](https://media.blubrry.com/thich_nhat_hanh_dharma_talks/pvengagedbuddhism.org/tnh-2013/2013-11-10.mp3) · [tnhaudio](https://tnhaudio.org/2013/11/16/horse-technology/) · [YouTube](https://www.youtube.com/watch?v=a9GG4JtX8t4) · [plumvillage.org](https://plumvillage.org/video/the-horse-is-technology) | `talks/tnh-2013-11-10-horse-is-technology/` | An edited text appeared in *Mindfulness Bell* #66 (paywalled). Quotes: `life-itself/wise-ai`, `wise-ai/research/06a-horse-quotes.md`. |
+| [The Horse is Technology](../talks/2013-11-10-the-horse-is-technology.md) (dharma talk) | 2013-11-10 | Machine transcript of the core talk (whisper.cpp, uncorrected) | [Official MP3](https://media.blubrry.com/thich_nhat_hanh_dharma_talks/pvengagedbuddhism.org/tnh-2013/2013-11-10.mp3) · [tnhaudio](https://tnhaudio.org/2013/11/16/horse-technology/) · [YouTube](https://www.youtube.com/watch?v=a9GG4JtX8t4) · [plumvillage.org](https://plumvillage.org/video/the-horse-is-technology) | `talks/tnh-2013-11-10-horse-is-technology/` | An edited text appeared in *Mindfulness Bell* #66 (paywalled). Quotes: `life-itself/wise-ai`, `wise-ai/research/06a-horse-quotes.md`. |
 
 ## To add
 
